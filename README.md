@@ -1,2 +1,2 @@
 # Self-Startup
-Educational Purposes only
+Shows how to add your own file to registry startup
